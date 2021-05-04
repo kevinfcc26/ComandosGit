@@ -100,7 +100,7 @@ git hub
 * git pull --all : se actuliza con todas las ramas que hay en el repositorio
 * git branch -a : muestra todas las ramas incluyendo las remotas
 * git branch :rama a borrar : borra la rama directamente del repositorio remoto
-    * git push origin : rama a borrar
+    * git push origin :rama a borrar
 * git remote prune origin : Borra todas las ramas locales, que ya no existan en el remote
 
 Issues
